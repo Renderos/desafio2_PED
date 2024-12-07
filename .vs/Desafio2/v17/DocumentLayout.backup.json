@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|c:\\users\\reren\\downloads\\ped_desafio2-main\\ped_desafio2-main\\desafio2\\desafio2\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|c:\\users\\reren\\downloads\\ped_desafio2-main\\ped_desafio2-main\\desafio2\\desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|c:\\users\\reren\\downloads\\ped_desafio2-main\\ped_desafio2-main\\desafio2\\desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|c:\\users\\reren\\downloads\\ped_desafio2-main\\ped_desafio2-main\\desafio2\\desafio2\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED594C0-5C1C-4650-9360-E5BFCD2E1120}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Form1.cs",
+              "RelativeToolTip": "Desafio2\\Form1.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAlwAcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:08:23.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Desafio2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:05:29.668Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Inicio.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Inicio.cs",
+              "ToolTip": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Inicio.cs",
+              "RelativeToolTip": "Desafio2\\Inicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:05:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Inicio.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Inicio.cs",
+              "ToolTip": "C:\\Users\\reren\\Downloads\\PED_Desafio2-main\\PED_Desafio2-main\\Desafio2\\Desafio2\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Desafio2\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:03:10.785Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
